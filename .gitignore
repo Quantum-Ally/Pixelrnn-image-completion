@@ -99,7 +99,7 @@ cython_debug/
 .streamlit/
 
 # Model outputs and checkpoints
-outputs/
+
 models/
 checkpoints/
 *.pth
